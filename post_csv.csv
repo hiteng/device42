@@ -1,0 +1,5 @@
+name,type,in-service,virtual-host,service-level,macaddress
+device100,cluster,no,yui,QA,aabbccedffff
+device101,cluster,no,yui,QA,aabbccedffff
+device102,cluster,no,yui,QA,aabbccedffff
+device103,cluster,no,yui,QA,

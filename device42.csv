@@ -1,0 +1,16 @@
+name,Building_name,Rack_name,Room_name
+Device1,Building1,Rack1,Room1
+Device2,Building2,Rack2,Room2
+Device3,Building4,Rack3,Room3
+Device4,Building4,,Room4
+Device5,Building5,,Room5
+Device6,,,Room6
+Device7,,,Room7
+Device8,,,Room8
+Device9,,,Room9
+Device10,,,Room10
+1,,,Room11
+2,,,Room12
+3,,,Room13
+4,,,Room14
+5,,,Room14
